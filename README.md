@@ -19,7 +19,7 @@ Installation
 ------------
 
 ```sh
-go get -u github.com/TylerBrock/colorjson
+go get -u github.com/Shihta/colorjson
 ```
 
 Usage
@@ -28,7 +28,7 @@ Usage
 Setup
 
 ```go
-import "github.com/TylerBrock/colorjson"
+import "github.com/Shihta/colorjson"
 
 str := `{
   "str": "foo",
